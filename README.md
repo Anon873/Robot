@@ -1,9 +1,4 @@
 
-
-<p align="center">
-  <img src="https://telegra.ph/file/409f1e6c7e44e7023fe26.jpg">
-</p>
-
     ──「 DEPLOY ON HEROKU 」──
 </h2>
 
